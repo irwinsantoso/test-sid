@@ -324,7 +324,7 @@ OUTBOUND S-05 WS-01
 - You may use **any programming language and libraries** of your choice.
 - You may **not** modify the backend code.
 - Your program should work against a **fresh simulator state** (call `POST /api/reset` at the start if needed).
-- Time limit: **2 hours**.
+- Time limit: **3 days**.
 
 ---
 
